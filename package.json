@@ -1,0 +1,28 @@
+{
+  "name": "microservice-skeleton",
+  "version": "0.1.0",
+  "description": "Simple library for creating simple API-based microservices using Express.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosbc/microservice-skeleton.git"
+  },
+  "keywords": [
+    "microservice",
+    "skeleton",
+    "microservices",
+    "framework"
+  ],
+  "author": "Marcos Bjørkelund",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/marcosbc/microservice-skeleton/issues"
+  },
+  "homepage": "https://github.com/marcosbc/microservice-skeleton#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "lodash.defaults": "^4.0.1",
+    "morgan": "^1.7.0"
+  }
+}
