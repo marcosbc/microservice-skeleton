@@ -49,9 +49,9 @@ Since this module is meant for creating API-based microservices, it only support
 - `get`: `GET` request to `/login`.
 - `post`: `POST` request to `/login`.
 - `put`: `PUT` request to `/login`.
-- `delete`: `DELETE` request to `/login`.
 - `show`: `GET` request to `/login/:id`.
 - `edit`: `POST` request to `/login/:id`.
+- `delete`: `DELETE` request to `/login/:id`.
 
 ### Liveness and readiness
 
