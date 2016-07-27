@@ -1,6 +1,6 @@
 {
   "name": "microservice-skeleton",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple library for creating simple API-based microservices using Express.",
   "main": "lib/index.js",
   "repository": {
